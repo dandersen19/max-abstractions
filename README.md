@@ -1,5 +1,9 @@
 # max-abstractions
-Assorted Max abstractions. For more information, see http://www.drakeandersen.com/research
+Assorted Max abstractions.
+
+For more information, see http://www.drakeandersen.com/research
+
+(c) 2020 by Drake Andersen
 
 ## Install
 ```
