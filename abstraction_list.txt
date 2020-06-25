@@ -1,0 +1,13 @@
+OVERVIEW
+
+da.bpmetro - BPM-based metronome
+da.clock - Elapsed time display
+da.coco - Determines correlation coefficient
+da.etag~ - Inverted noise gate
+da.panlaw~ - Implements pan law
+da.ramps - Random continuous ramps
+da.random - Random numbers in range
+da.randopan~ - Random continuous panning
+da.statbrain - Random weighted values
+
+Updated 6.18.2020
