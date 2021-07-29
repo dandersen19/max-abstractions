@@ -13,6 +13,7 @@ For more information, see http://www.drakeandersen.com/research
 
 ## Contents
 - da.bpmetro - BPM-based metronome
+- da.can - List from streaming data
 - da.clock - Elapsed time display
 - da.coco - Determines correlation coefficient
 - da.etag~ - Inverted noise gate
