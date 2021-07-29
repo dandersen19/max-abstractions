@@ -3,7 +3,7 @@ Assorted Max abstractions.
 
 For more information, see http://www.drakeandersen.com/research
 
-(c) 2020 by Drake Andersen
+(c) 2021 by Drake Andersen
 
 ## Install
 ```
