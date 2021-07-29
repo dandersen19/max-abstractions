@@ -6,10 +6,8 @@ For more information, see http://www.drakeandersen.com/research
 (c) 2021 by Drake Andersen
 
 ## Install
-```
 1. Download ZIP file.
 2. Unzip in Max search path (any folder recognized via Options -> File Preferences)
-```
 
 ## Contents
 - da.bpmetro - BPM-based metronome
