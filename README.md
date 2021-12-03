@@ -11,10 +11,13 @@ For more information, see http://www.drakeandersen.com/research
 
 ## Contents
 - da.bpmetro - BPM-based metronome
-- da.can - List from streaming data
+- da.can - List from streaming data (deprecated; use da.collect instead)
 - da.clock - Elapsed time display
 - da.coco - Determines correlation coefficient
+- da.collect - List from streaming data (replaces da.can)
 - da.etag~ - Inverted noise gate
+- da.mx2bin - converts coordinates to binary list (for use with [matrixctrl])
+- da.mx2coords - converts binary list to coordinates (for use with [matrixctrl])
 - da.panlaw~ - Implements pan law
 - da.ramps - Random continuous ramps
 - da.random - Random numbers in range
